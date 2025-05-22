@@ -1,0 +1,7 @@
+chicago
+- low use of mocks
+-unit: collection of pieces
+
+London
+- heavy mocks use
+- unit: a classs
