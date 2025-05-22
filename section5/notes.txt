@@ -1,0 +1,5 @@
+mock vs spy
+
+- spies are not directly injected
+- original functionality is preserved with spies
+- spies usually track method calls

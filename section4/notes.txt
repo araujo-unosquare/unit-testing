@@ -1,0 +1,8 @@
+TEST DRIVEN DEVELOPMENT
+
+great when extending an app or fixing bugs
+
+Cycle
+-Failing test
+-Passing text
+-Change logic

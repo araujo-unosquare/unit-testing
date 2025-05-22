@@ -1,0 +1,33 @@
+FIRST principles
+
+Fast
+- Should be fast. Faster tests- faster feedback
+
+Independent
+- Tests should be isolated from other tests and external env
+    - No shared state
+
+Repeatable
+- Same result with same input
+
+Self-validating
+- After test is finished, results should be clear
+
+Thorough
+- Cover all cases
+
+------------------------
+
+test properties
+    only
+    skip
+    todo
+    concurrent
+
+test aliases
+    it
+    test
+    xit
+    fit
+
+watch mode
