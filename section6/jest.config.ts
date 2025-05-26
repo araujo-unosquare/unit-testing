@@ -6,6 +6,7 @@ const config: Config.InitialOptions = {
   verbose: true,
   collectCoverage: true,
   collectCoverageFrom: ["<rootDir>/src/app/server_app/**/*.ts"],
+  // testMatch: ["<rootDir>/src/test/server_app/server/*.ts"],
 };
 
 export default config;
