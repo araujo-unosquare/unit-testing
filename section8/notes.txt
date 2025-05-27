@@ -1,0 +1,5 @@
+Integration tests
+
+- Multiple components tested together
+- Avoid mocking as much as possible
+- Test the system as close as possible to the real deployment
